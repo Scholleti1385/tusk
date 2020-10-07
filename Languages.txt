@@ -4,3 +4,7 @@ Java
 C,C++
 Linux
 Python
+
+
+AI
+Machine Learning
